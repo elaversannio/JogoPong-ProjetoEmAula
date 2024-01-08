@@ -1,2 +1,2 @@
 # JogoPong-ProjetoEmAula
-Projetinho feito em aula em 6 mar 2023, primeira experiência no p5.js. (Alura)
+Projetinho feito nem aula, no p5.js, em 6 mar 2023, . (Alura)
